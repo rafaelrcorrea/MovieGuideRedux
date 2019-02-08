@@ -230,6 +230,7 @@ class MovieDetail extends Component {
 
 MovieDetail.propTypes = {
   data: PropTypes.shape({
+    id: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
   })};
 
