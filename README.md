@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rafaelrcorrea/MovieGuideRedux/master/capture-screen.png" title="capture-screen" alt="capture-screen">
+<img src="https://raw.githubusercontent.com/rafaelrcorrea/MovieGuideRedux/master/capture_screen.png" title="capture-screen" alt="capture-screen">
 
 # MovieGuideRedux
 (React-Native) Movie Guide.
