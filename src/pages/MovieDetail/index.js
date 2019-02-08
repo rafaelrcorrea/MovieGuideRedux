@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {ScrollView, TouchableOpacity, Text, Platform, View, Animated, Image} from 'react-native';
+import {StatusBar, ScrollView, TouchableOpacity, Text, Platform, View, Animated, Image} from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
@@ -117,6 +117,7 @@ class MovieDetail extends Component {
     
     return (
       <View style={styles.container}> 
+        <StatusBar backgroundColor="white" barStyle="light-content" />
         <ScrollView
           style={styles.scrollContainer}
           scrollEventThrottle={16}
