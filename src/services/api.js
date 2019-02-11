@@ -5,7 +5,7 @@ import axios from 'axios';
 import { setupCache } from 'axios-cache-adapter'
 
 const baseURL = 'https://api.themoviedb.org';
-const token = '024d69b581633d457ac58359146c43f6';
+const token = '<<your_api_key>>';
 
 const cache = setupCache({
   maxAge: 15 * 60 * 1000
