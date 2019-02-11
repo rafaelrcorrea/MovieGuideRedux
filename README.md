@@ -7,7 +7,7 @@
 A sample movie guide developed in React-Native with Redux.
 
 **Observations**
-- Powered with Tmdb API (https://developers.themoviedb.org/)
+- Powered by Tmdb API (https://developers.themoviedb.org/)
 - react-native: 0.57.8
 - react-navigation: 3.0.9
 - react-native-gesture-handler: 1.0.14
